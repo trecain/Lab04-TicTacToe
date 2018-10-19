@@ -1,4 +1,4 @@
-# Lab04-TicTacToe
+# Lab04-TicTacToe (Using Classes)
 
 ## Overview:
 
